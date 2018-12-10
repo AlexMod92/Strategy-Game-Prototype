@@ -11,7 +11,7 @@ This were the tasks I received:
 - Stone to Marmor
 - Wood to Wood Boards
 #### Buildings can change material in X sec from X to Y amount
-### Buildings have an Entrypoint to receive materials
+#### Buildings have an Entrypoint to receive materials
 
 ### Screenshots  
 ![alt text](Screenshots/GameScreen.png "Game")  
